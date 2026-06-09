@@ -12,9 +12,9 @@ Você recebeu um conjunto de dados do departamento de Recursos Humanos de um gra
 Sua missão é atuar como Cientista/Engenheiro(a) de Dados para **identificar os principais fatores que estão levando ao desligamento (evasão) dos colaboradores** e apresentar suas conclusões em forma de insights e dashboards.
 
 ### 📥 O que a Liga está fornecendo:
-1. Conjunto de dados sujos (`dados\funcionarios.csv`).
-2. Departamentos (`dados/departamentos.csv`).
-3. Filiais (`dados/filiais.csv`).
+1. Conjunto de dados dos Funcionários (`dados\funcionarios.csv`).
+2. Conjunto de dados dos Departamentos (`dados/departamentos.csv`).
+3. Conjunto de dados das Filiais (`dados/filiais.csv`).
 
 
 
