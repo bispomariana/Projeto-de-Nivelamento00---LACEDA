@@ -12,7 +12,11 @@ Você recebeu um conjunto de dados do departamento de Recursos Humanos de um gra
 Sua missão é atuar como Cientista/Engenheiro(a) de Dados para **identificar os principais fatores que estão levando ao desligamento (evasão) dos colaboradores** e apresentar suas conclusões em forma de insights e dashboards.
 
 ### 📥 O que a Liga está fornecendo:
-1. Conjunto de dados sujos (`dados/desafio_liga_juridico_sujo.csv`).
+1. Conjunto de dados sujos (`dados\funcionarios.csv`).
+2. Departamentos (`dados/departamentos.csv`).
+3. Filiais (`dados/filiais.csv`).
+
+
 
 ### 📤 O que você deve entregar:
 Para concluir o nivelamento, você deve commitar neste repositório (via Pull Request ou em sua branch de entrega):
