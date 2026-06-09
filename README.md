@@ -7,7 +7,7 @@ Bem-vindo(a) ao projeto de nivelamento da LACEDA! Este desafio foi desenhado par
 ---
 
 ## 📊 O Desafio
-Você recebeu um conjunto de dados do departamento de Recursos Humanos de um grande escritório de advocacia (`dados/desafio_liga_juridico_sujo.csv`). 
+Você recebeu um conjunto de dados do departamento de Recursos Humanos de um grande escritório de advocacia (`dados/funcionaris.csv`). 
 
 Sua missão é atuar como Cientista/Engenheiro(a) de Dados para **identificar os principais fatores que estão levando ao desligamento (evasão) dos colaboradores** e apresentar suas conclusões em forma de insights e dashboards.
 
