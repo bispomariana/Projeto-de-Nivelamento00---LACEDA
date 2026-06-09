@@ -29,4 +29,9 @@ Para concluir o nivelamento, você deve commitar neste repositório (via Pull Re
 3. Desenvolva seu projeto na pasta raiz ou em uma pasta própria com seu nome.
 4. Ao finalizar, abra um **Pull Request** para o repositório principal da LACEDA.
 
+## 📒Materiais de Apoio:
+1. https://www.youtube.com/watch?v=Z_SPrzlT4Fc&list=PLucm8g_ezqNoAkYKXN_zWupyH6hQCAwxY
+2. https://www.youtube.com/watch?v=NCG9niOlm40&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r&index=7
+3. https://www.youtube.com/watch?v=Dnt4H_WCrWE&list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk&index=11
+
 *Nota: A segunda parte da avaliação consistirá em uma entrevista com banco de perguntas conceituais sorteadas e a apresentação do seu projeto.*
