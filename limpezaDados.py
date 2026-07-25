@@ -27,3 +27,4 @@ df_funcionarios['salario_base'] = df_funcionarios['salario_base'].apply(padroniz
 df_funcionarios['salario_base'] = df_funcionarios['salario_base'].astype('float')
 df_funcionarios['score_satisfacao'] = df_funcionarios.groupby('id_departamento')['score_satisfacao'].transform(lambda x: x.fillna(x.mean())).round(1)
 
+df_funcionarios.to_csv("dados/funcionarios_limpo.csv", index=False)
