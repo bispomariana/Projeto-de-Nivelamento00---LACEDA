@@ -14,7 +14,7 @@ id_colaborador,nome,genero,nivel,data_admissao,data_promocao,salario_base,percen
 13,Natan Alves,Masculino,Júnior,2024-07-13,,3641.49,6,40,2,100,35,12,4.6,True,Ativo
 14,Samuel Teixeira,Feminino,Sênior,2019-07-08,2023-07-07,10624.13,23,20,2,200,62,35,2.4,False,Desligado
 15,Pedro Gomes,Masculino,Pleno,2021-03-13,2022-10-04,5993.91,16,20,4,200,66,57,1.7,False,Ativo
-16,Tatiana Mendes,Fem,Júnior,2025-07-09,,3591.44,8,30,2,100,14,7,3.3,True,Ativo
+16,Tatiana Mendes,Feminino,Júnior,2025-07-09,,3591.44,8,30,2,100,14,7,3.3,True,Ativo
 17,Tatiana Mendes,Feminino,Júnior,2024-09-09,,4368.38,3,20,4,300,66,57,1.4,False,Ativo
 18,João Lima,Não-binário,Júnior,2025-04-13,,3974.27,8,40,2,300,18,18,3.7,False,Ativo
 19,João Lima,Masculino,Pleno,2020-11-19,,7129.65,20,10,2,200,21,5,4.9,False,Desligado
@@ -44,7 +44,7 @@ id_colaborador,nome,genero,nivel,data_admissao,data_promocao,salario_base,percen
 43,Hugo Ribeiro,Masculino,Pleno,2025-05-10,2024-01-15,6446.64,13,30,3,501,20,20,5.0,True,Desligado
 44,João Lima,Feminino,Júnior,2024-08-20,,4041.32,4,30,1,400,34,6,4.3,True,Ativo
 45,João Lima,Não-binário,Júnior,2025-04-25,,4218.07,6,10,1,502,27,4,4.2,False,Ativo
-46,Tatiana Mendes,Fem,Pleno,2021-09-14,,6244.57,18,10,2,501,26,16,3.7,False,Desligado
+46,Tatiana Mendes,Feminino,Pleno,2021-09-14,,6244.57,18,10,2,501,26,16,3.7,False,Desligado
 47,Vitor Xavier,Não-binário,Pleno,2020-05-03,2022-03-11,5797.7,12,40,3,100,17,19,3.3,False,Ativo
 48,Vitor Xavier,Não-binário,Pleno,2022-08-20,,6194.43,20,40,4,200,20,22,4.3,False,Desligado
 49,Hugo Ribeiro,Não-binário,Júnior,2025-10-25,,3723.48,1,40,1,300,26,11,4.5,True,Ativo
@@ -119,7 +119,7 @@ id_colaborador,nome,genero,nivel,data_admissao,data_promocao,salario_base,percen
 118,Hugo Ribeiro,Não-binário,Pleno,2020-03-05,,7601.56,16,40,2,400,25,18,4.6,False,Desligado
 119,Gabriela Almeida,Não-binário,Pleno,2023-02-22,,7486.68,18,10,2,502,29,13,4.4,False,Desligado
 120,Hugo Ribeiro,Feminino,Júnior,2024-10-12,,4337.13,5,30,4,502,27,13,4.2,False,Ativo
-121,Tatiana Mendes,Fem,Júnior,2025-11-23,,4314.79,4,30,3,400,34,4,3.8,False,Ativo
+121,Tatiana Mendes,Feminino,Júnior,2025-11-23,,4314.79,4,30,3,400,34,4,3.8,False,Ativo
 122,Gabriela Almeida,Feminino,Júnior,2025-07-05,,3906.7,0,30,4,200,33,18,3.6,True,Ativo
 123,Kamila Pereira,Masculino,Sócio,2017-04-18,2020-04-24,25823.29,40,10,1,,27,22,3.6,False,Ativo
 124,Bruno Souza,Masculino,Sênior,2021-04-24,2024-04-23,12824.09,25,30,3,200,13,14,4.6,True,Ativo
@@ -134,7 +134,7 @@ id_colaborador,nome,genero,nivel,data_admissao,data_promocao,salario_base,percen
 133,Olivia Barbosa,Masculino,Júnior,2025-01-21,,4063.47,2,40,3,502,29,14,4.2,False,Ativo
 134,João Lima,Feminino,Júnior,2025-04-19,,4510.25,2,20,1,502,53,41,1.7,False,Ativo
 135,Natan Alves,Não-binário,Júnior,2025-09-21,,4649.08,9,10,1,100,33,3,3.6,False,Ativo
-136,Samuel Teixeira,Fem,Pleno,2021-03-20,2022-04-17,8480.45,19,40,4,200,33,12,3.6,True,Ativo
+136,Samuel Teixeira,Feminino,Pleno,2021-03-20,2022-04-17,8480.45,19,40,4,200,33,12,3.6,True,Ativo
 137,Isabela Carvalho,Masculino,Pleno,2020-05-04,,7275.0,10,20,4,501,65,56,1.5,False,Desligado
 138,Elena Rodrigues,Masculino,Sênior,2018-09-07,2024-09-05,10584.36,34,30,4,200,25,15,4.2,True,Ativo
 139,Gabriela Almeida,Masculino,Sênior,2018-11-08,2021-11-07,9916.09,21,40,2,100,33,21,4.3,False,Ativo
@@ -269,7 +269,7 @@ id_colaborador,nome,genero,nivel,data_admissao,data_promocao,salario_base,percen
 268,Bruno Souza,Feminino,Pleno,2020-09-18,2022-07-08,5904.17,12,40,1,501,17,18,4.9,False,Ativo
 269,Gabriela Almeida,Feminino,Júnior,2025-04-04,,4409.79,2,10,3,502,31,18,3.7,False,Ativo
 270,Tatiana Mendes,Não-binário,Pleno,2020-05-20,2021-09-14,5896.64,12,30,4,501,15,7,4.1,True,Ativo
-271,Pedro Gomes,Fem,Júnior,2025-11-06,,3695.49,6,10,1,400,23,3,4.5,True,Ativo
+271,Pedro Gomes,Feminino,Júnior,2025-11-06,,3695.49,6,10,1,400,23,3,4.5,True,Ativo
 272,Lucas Martins,Masculino,Sócio,2013-02-04,2020-08-08,24872.43,44,20,4,,45,57,2.0,True,Ativo
 273,Ana Silva,Não-binário,Pleno,2022-02-07,2024-01-08,7912.86,14,10,1,300,25,20,3.9,False,Ativo
 274,Samuel Teixeira,Masculino,Sênior,2021-05-25,,11676.92,31,40,2,400,33,5,4.5,False,Ativo
@@ -299,7 +299,7 @@ id_colaborador,nome,genero,nivel,data_admissao,data_promocao,salario_base,percen
 298,Olivia Barbosa,Não-binário,Pleno,2024-01-29,,5770.59,17,30,2,200,26,3,3.8,False,Ativo
 299,Carla Oliveira,Masculino,Sênior,2020-01-18,2026-01-16,10625.36,23,10,3,100,26,9,4.5,True,Ativo
 300,Diego Santos,Não-binário,Júnior,2025-06-17,,4499.01,0,20,4,300,68,52,1.7,False,Ativo
-301,Lucas Martins,Fem,Pleno,2020-04-16,,6153.36,12,40,3,200,30,5,3.9,False,Desligado
+301,Lucas Martins,Feminino,Pleno,2020-04-16,,6153.36,12,40,3,200,30,5,3.9,False,Desligado
 302,Pedro Gomes,Não-binário,Sênior,2020-11-10,2024-11-09,10209.64,30,10,1,502,13,13,4.4,False,Ativo
 303,Hugo Ribeiro,Masculino,Pleno,2021-10-10,,7865.69,10,10,2,100,23,6,3.7,True,Desligado
 304,João Lima,Não-binário,Sênior,2020-01-17,2026-01-15,11064.49,25,40,4,300,16,16,3.7,False,Desligado
@@ -389,7 +389,7 @@ id_colaborador,nome,genero,nivel,data_admissao,data_promocao,salario_base,percen
 388,Pedro Gomes,Feminino,Júnior,2025-05-31,,3550.43,3,40,1,502,14,19,4.6,False,Ativo
 389,Lucas Martins,Feminino,Sênior,2018-08-29,2022-08-28,11659.02,20,40,2,300,16,14,3.5,False,Desligado
 390,Carla Oliveira,Não-binário,Pleno,2022-02-27,,6498.72,20,40,1,100,31,12,4.5,True,Desligado
-391,Mariana Rocha,Fem,Pleno,2022-01-18,2023-09-13,6596.71,12,30,1,400,19,19,3.4,False,Ativo
+391,Mariana Rocha,Feminino,Pleno,2022-01-18,2023-09-13,6596.71,12,30,1,400,19,19,3.4,False,Ativo
 392,Lucas Martins,Masculino,Júnior,2024-09-30,,4255.35,8,20,2,502,48,50,2.0,True,Ativo
 393,Lucas Martins,Não-binário,Pleno,2023-10-10,2025-09-28,8322.63,11,30,4,100,17,11,4.9,False,Ativo
 394,Diego Santos,Masculino,Júnior,2025-12-14,,3721.93,10,10,2,400,29,6,4.1,True,Ativo
@@ -419,7 +419,7 @@ id_colaborador,nome,genero,nivel,data_admissao,data_promocao,salario_base,percen
 418,Pedro Gomes,Masculino,Sócio,2015-02-14,2021-11-10,24407.87,47,10,2,,31,14,5.0,True,Ativo
 419,Diego Santos,Masculino,Pleno,2020-09-07,,6991.82,11,30,2,400,33,2,4.1,False,Desligado
 420,Vitor Xavier,Masculino,Júnior,2025-09-30,,3644.5,10,30,2,501,27,17,4.1,False,Ativo
-421,Natan Alves,Fem,Júnior,2024-05-01,,4075.44,10,30,1,200,21,7,4.1,True,Ativo
+421,Natan Alves,Feminino,Júnior,2024-05-01,,4075.44,10,30,1,200,21,7,4.1,True,Ativo
 422,Diego Santos,Masculino,Pleno,2023-03-11,,7480.24,18,30,4,400,24,10,4.1,False,Desligado
 423,Bruno Souza,Masculino,Júnior,2024-01-29,,4385.7,5,30,3,300,24,5,4.0,False,Ativo
 424,Hugo Ribeiro,Feminino,Júnior,2024-09-10,,3851.93,2,40,3,400,12,19,3.8,True,Ativo
@@ -434,7 +434,7 @@ id_colaborador,nome,genero,nivel,data_admissao,data_promocao,salario_base,percen
 433,Kamila Pereira,Masculino,Sênior,2021-09-01,,13709.75,25,20,1,501,59,48,1.4,False,Ativo
 434,Lucas Martins,Não-binário,Pleno,2023-12-03,2025-01-28,6771.34,17,10,4,501,21,2,4.4,False,Ativo
 435,Hugo Ribeiro,Não-binário,Pleno,2021-06-02,,6427.81,17,10,1,300,12,14,4.9,False,Desligado
-436,João Lima,Fem,Pleno,2021-03-06,,5980.68,10,30,1,400,14,17,4.0,False,Desligado
+436,João Lima,Feminino,Pleno,2021-03-06,,5980.68,10,30,1,400,14,17,4.0,False,Desligado
 437,Felipe Costa,Feminino,Pleno,2023-12-01,,5699.1,17,30,4,502,13,22,4.4,False,Ativo
 438,Mariana Rocha,Feminino,Pleno,2021-02-13,2022-12-31,7227.43,19,40,2,502,25,12,4.2,False,Ativo
 439,Tatiana Mendes,Feminino,Sênior,2021-08-21,,11365.23,27,20,3,200,62,55,1.9,False,Ativo
@@ -449,7 +449,7 @@ id_colaborador,nome,genero,nivel,data_admissao,data_promocao,salario_base,percen
 448,Felipe Costa,Feminino,Sênior,2021-03-16,2026-03-15,10455.78,25,20,3,300,52,50,1.9,False,Ativo
 449,Diego Santos,Não-binário,Pleno,2022-03-18,2023-09-25,8353.66,20,10,3,501,26,22,4.9,True,Ativo
 450,Vitor Xavier,Feminino,Pleno,2022-07-16,2023-12-29,8499.46,10,10,3,502,21,12,4.6,False,Ativo
-451,Mariana Rocha,Fem,Júnior,2024-09-18,,3767.02,6,10,4,502,21,22,4.6,False,Ativo
+451,Mariana Rocha,Feminino,Júnior,2024-09-18,,3767.02,6,10,4,502,21,22,4.6,False,Ativo
 452,Pedro Gomes,Masculino,Júnior,2025-03-18,,4603.83,8,20,1,400,51,50,1.6,False,Desligado
 453,Vitor Xavier,Não-binário,Sênior,2019-05-17,2022-05-16,12262.41,22,40,3,502,22,16,4.4,True,Ativo
 454,Renata Pinto,Não-binário,Pleno,2020-06-20,2021-11-15,5737.55,13,20,4,501,58,44,1.8,True,Ativo
@@ -494,7 +494,7 @@ id_colaborador,nome,genero,nivel,data_admissao,data_promocao,salario_base,percen
 493,Tatiana Mendes,Feminino,Júnior,2024-05-11,,4618.96,10,20,2,501,45,57,1.9,False,Desligado
 494,Natan Alves,Feminino,Sênior,2020-08-05,2023-08-05,13299.54,34,30,4,200,28,3,4.8,False,Ativo
 495,Samuel Teixeira,Masculino,Pleno,2022-07-08,,6675.58,16,10,3,300,19,8,4.1,True,Desligado
-496,Pedro Gomes,Fem,Sênior,2019-06-04,2022-06-03,11004.36,35,10,1,200,13,12,4.1,False,Ativo
+496,Pedro Gomes,Feminino,Sênior,2019-06-04,2022-06-03,11004.36,35,10,1,200,13,12,4.1,False,Ativo
 497,Olivia Barbosa,Feminino,Júnior,2025-08-15,,3687.24,7,10,4,400,13,11,4.3,False,Ativo
 498,Bruno Souza,Não-binário,Pleno,2023-02-19,,8049.79,19,10,1,400,31,2,4.0,True,Desligado
 499,Ana Silva,Masculino,Júnior,2025-04-09,,4275.82,2,40,1,400,32,18,3.7,True,Ativo
@@ -599,7 +599,7 @@ id_colaborador,nome,genero,nivel,data_admissao,data_promocao,salario_base,percen
 598,João Lima,Não-binário,Júnior,2024-12-22,,4813.1,2,20,3,400,65,39,1.4,True,Desligado
 599,Diego Santos,Feminino,Pleno,2023-03-29,,7680.12,16,40,4,502,22,17,4.0,False,Desligado
 600,Hugo Ribeiro,Feminino,Pleno,2022-02-23,,6991.31,11,40,3,502,34,15,4.1,False,Desligado
-601,Lucas Martins,Fem,Júnior,2024-01-03,,3804.92,5,20,1,200,56,39,1.4,False,Ativo
+601,Lucas Martins,Feminino,Júnior,2024-01-03,,3804.92,5,20,1,200,56,39,1.4,False,Ativo
 602,Hugo Ribeiro,Feminino,Pleno,2020-04-24,2021-07-03,7587.34,10,40,2,501,33,20,3.3,True,Ativo
 603,Lucas Martins,Feminino,Júnior,2024-05-24,,3618.49,2,20,1,300,68,51,2.0,True,Desligado
 604,Kamila Pereira,Não-binário,Júnior,2025-03-30,,4672.1,2,40,4,400,28,7,3.2,True,Ativo

@@ -25,4 +25,11 @@ df_funcionarios['salario_base'] = df_funcionarios['salario_base'].apply(padroniz
 df_funcionarios['salario_base'] = df_funcionarios['salario_base'].astype('float')
 df_funcionarios['score_satisfacao'] = df_funcionarios.groupby('id_departamento')['score_satisfacao'].transform(lambda x: x.fillna(x.mean())).round(1)
 
+def padronizar_genero(valor):
+  if valor == 'Fem':
+    return 'Feminino'
+  else:
+    return valor
+
+df_funcionarios['genero'] = df_funcionarios['genero'].apply(padronizar_genero)
 df_funcionarios.to_csv("dados/funcionarios_limpo.csv", index=False)
