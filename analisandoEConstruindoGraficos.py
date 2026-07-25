@@ -39,6 +39,12 @@ plt.show() #como padrão, funcionarios do departamento 20, tem uma menor satisfa
 df_funcionarios.groupby('id_departamento')['desligado'].mean().plot(kind='bar', title='Taxa de Desligamento por Departamento', color='lightcoral')
 plt.show() #prova que o departamento 20 tem uma maior taxa de desligamento, o que pode indicar problemas de gestão ou cultura nesse departamento.
 
+#promocao por departamento
 df_funcionarios.groupby('id_departamento')['ja_promovido'].mean().plot(kind='bar', title='Taxa de Promoção por Departamento', color='lightgreen')
 plt.show() #mostra que não é apenas um problema de falta de promoção, pois a taxa é semelhante aos outros
 
+#horas extras por departamento
+df_funcionarios.groupby('id_departamento')['horas_extras_mes'].mean().plot(kind='bar', title='Média de Horas Extras por Departamento', color='yellow')
+plt.show() #mostra que o departamento 20 tem uma média de horas extras maior, que possui uma correlação
+#positiva com o volume de processos jurídicos sob responsabilidade do advogado, o que indica que o departamento 20
+#tem uma maior carga de trabalho, o que pode levar a uma maior insatisfação e, consequentemente, a uma maior taxa de desligamento.
