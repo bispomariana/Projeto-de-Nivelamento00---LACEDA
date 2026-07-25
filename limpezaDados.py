@@ -2,8 +2,6 @@
 
 import pandas as pd
 
-df_filiais = pd.read_csv("dados/filiais.csv")
-df_departamentos = pd.read_csv("dados/departamentos.csv")
 df_funcionarios = pd.read_csv("dados/funcionarios.csv")
 
 '''Limpando os dados'''
